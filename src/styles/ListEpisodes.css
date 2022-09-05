@@ -1,0 +1,29 @@
+.container-episodes{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;    
+}
+
+.episode {
+    width: 130px;
+    margin: 0 10px;
+    margin-bottom: 15px;
+    text-align: center;    
+}
+
+.episode a {
+    font-size: 1.1em;
+    font-weight: 600;    
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.episode a:hover {
+    color: #ff9900 !important;
+}
+
+.episode img{
+    width: 120px;
+    border-radius: 50%;
+}

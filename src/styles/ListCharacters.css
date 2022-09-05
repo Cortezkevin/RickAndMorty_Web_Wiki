@@ -1,0 +1,22 @@
+.container-all{  
+   max-width: 1300px;
+   display: flex;
+   margin: auto;
+   flex-wrap: wrap;
+   padding-top: 65px;
+   justify-content: center;   
+}
+
+.container-characters{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.container-pagination{  
+  display: flex;
+  align-items: center;  
+  margin: 20px 0;
+}
+
